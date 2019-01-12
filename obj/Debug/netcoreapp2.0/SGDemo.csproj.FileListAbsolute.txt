@@ -1,0 +1,10 @@
+D:\camp\devops\SGDemo\bin\Debug\netcoreapp2.0\SGDemo.deps.json
+D:\camp\devops\SGDemo\bin\Debug\netcoreapp2.0\SGDemo.runtimeconfig.json
+D:\camp\devops\SGDemo\bin\Debug\netcoreapp2.0\SGDemo.runtimeconfig.dev.json
+D:\camp\devops\SGDemo\bin\Debug\netcoreapp2.0\SGDemo.dll
+D:\camp\devops\SGDemo\bin\Debug\netcoreapp2.0\SGDemo.pdb
+D:\camp\devops\SGDemo\obj\Debug\netcoreapp2.0\SGDemo.csproj.CoreCompileInputs.cache
+D:\camp\devops\SGDemo\obj\Debug\netcoreapp2.0\SGDemo.AssemblyInfoInputs.cache
+D:\camp\devops\SGDemo\obj\Debug\netcoreapp2.0\SGDemo.AssemblyInfo.cs
+D:\camp\devops\SGDemo\obj\Debug\netcoreapp2.0\SGDemo.dll
+D:\camp\devops\SGDemo\obj\Debug\netcoreapp2.0\SGDemo.pdb
